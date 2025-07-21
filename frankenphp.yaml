@@ -1,0 +1,3 @@
+frankenphp:
+  document_root: public
+  workers: auto
